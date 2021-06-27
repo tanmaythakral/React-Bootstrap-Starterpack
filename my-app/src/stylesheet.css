@@ -1,0 +1,31 @@
+nav {
+  background-color: #fff;
+}
+
+nav .navbar-brand {
+  font-family: 'Roboto', sans-serif;
+  color: #221e1e;
+  font-weight: bolder;
+  font-size: 3rem;
+}
+
+nav li a {
+  font-family: Roboto;
+  font-size: 2rem;
+  color: #000;
+}
+
+.main-body {
+  text-align: center;
+}
+
+footer {
+  font-family: Roboto;
+  font-size: 2rem;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+/*# sourceMappingURL=stylesheet.css.map */
